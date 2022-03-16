@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 5;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.firstSection {
+	text-align: center;
+	margin-top: 70;
+	margin-bottom:  20;
+	padding: 8;
+	border: 0;
+}
+
+.firstSection h1{
+	font-size: 38pt;
+	text-shadow: 2px 2px 0px #eee, 4px 4px 0px #707070;
+}
+
+.info {
+	border: 0;
+}
+
+div {
+	border: 1px solid;
+	margin-left: 20;
+	margin-right: 20;
+	margin-top: 10;
+}
